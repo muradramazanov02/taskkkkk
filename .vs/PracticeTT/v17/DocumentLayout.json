@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|solutionrelative:practicett.business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.business\\exceptions\\imagecontentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|solutionrelative:practicett.business\\exceptions\\imagecontentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.business\\exceptions\\imagesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|solutionrelative:practicett.business\\exceptions\\imagesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|solutionrelative:practicett.business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.business\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|solutionrelative:practicett.business\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.business\\exceptions\\filenullreferenceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|solutionrelative:practicett.business\\exceptions\\filenullreferenceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.business\\services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|solutionrelative:practicett.business\\services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B28770-6A09-42A3-8CB5-FF4947849435}|PracticeTT.Data\\PracticeTT.Data.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.data\\repositoryconcrets\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B28770-6A09-42A3-8CB5-FF4947849435}|PracticeTT.Data\\PracticeTT.Data.csproj|solutionrelative:practicett.data\\repositoryconcrets\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A62870-1C26-4497-8C8A-2EFA1C82EB1A}|PracticeTT.Core\\PracticeTT.Core.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.core\\repositoryabstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A62870-1C26-4497-8C8A-2EFA1C82EB1A}|PracticeTT.Core\\PracticeTT.Core.csproj|solutionrelative:practicett.core\\repositoryabstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B28770-6A09-42A3-8CB5-FF4947849435}|PracticeTT.Data\\PracticeTT.Data.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.data\\repositoryconcrets\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B28770-6A09-42A3-8CB5-FF4947849435}|PracticeTT.Data\\PracticeTT.Data.csproj|solutionrelative:practicett.data\\repositoryconcrets\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B28770-6A09-42A3-8CB5-FF4947849435}|PracticeTT.Data\\PracticeTT.Data.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B28770-6A09-42A3-8CB5-FF4947849435}|PracticeTT.Data\\PracticeTT.Data.csproj|solutionrelative:practicett.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A62870-1C26-4497-8C8A-2EFA1C82EB1A}|PracticeTT.Core\\PracticeTT.Core.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.core\\repositoryabstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A62870-1C26-4497-8C8A-2EFA1C82EB1A}|PracticeTT.Core\\PracticeTT.Core.csproj|solutionrelative:practicett.core\\repositoryabstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.business\\practicett.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A46C38F-F3C1-46A0-88A9-CE4A34AC88E3}|PracticeTT.Business\\PracticeTT.Business.csproj|solutionrelative:practicett.business\\practicett.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A62870-1C26-4497-8C8A-2EFA1C82EB1A}|PracticeTT.Core\\PracticeTT.Core.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A62870-1C26-4497-8C8A-2EFA1C82EB1A}|PracticeTT.Core\\PracticeTT.Core.csproj|solutionrelative:practicett.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A62870-1C26-4497-8C8A-2EFA1C82EB1A}|PracticeTT.Core\\PracticeTT.Core.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.core\\practicett.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89A62870-1C26-4497-8C8A-2EFA1C82EB1A}|PracticeTT.Core\\PracticeTT.Core.csproj|solutionrelative:practicett.core\\practicett.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F53743D-A3DA-4E41-A397-E656D873642D}|PracticeTT\\PracticeTT.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F53743D-A3DA-4E41-A397-E656D873642D}|PracticeTT\\PracticeTT.csproj|solutionrelative:practicett\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B28770-6A09-42A3-8CB5-FF4947849435}|PracticeTT.Data\\PracticeTT.Data.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.data\\practicett.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02B28770-6A09-42A3-8CB5-FF4947849435}|PracticeTT.Data\\PracticeTT.Data.csproj|solutionrelative:practicett.data\\practicett.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A62870-1C26-4497-8C8A-2EFA1C82EB1A}|PracticeTT.Core\\PracticeTT.Core.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A62870-1C26-4497-8C8A-2EFA1C82EB1A}|PracticeTT.Core\\PracticeTT.Core.csproj|solutionrelative:practicett.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F53743D-A3DA-4E41-A397-E656D873642D}|PracticeTT\\PracticeTT.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F53743D-A3DA-4E41-A397-E656D873642D}|PracticeTT\\PracticeTT.csproj|solutionrelative:practicett\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F53743D-A3DA-4E41-A397-E656D873642D}|PracticeTT\\PracticeTT.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F53743D-A3DA-4E41-A397-E656D873642D}|PracticeTT\\PracticeTT.csproj|solutionrelative:practicett\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F53743D-A3DA-4E41-A397-E656D873642D}|PracticeTT\\PracticeTT.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F53743D-A3DA-4E41-A397-E656D873642D}|PracticeTT\\PracticeTT.csproj|solutionrelative:practicett\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F53743D-A3DA-4E41-A397-E656D873642D}|PracticeTT\\PracticeTT.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F53743D-A3DA-4E41-A397-E656D873642D}|PracticeTT\\PracticeTT.csproj|solutionrelative:practicett\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B28770-6A09-42A3-8CB5-FF4947849435}|PracticeTT.Data\\PracticeTT.Data.csproj|c:\\users\\ca.r214.12\\desktop\\ab204\\practicett\\practicett.data\\migrations\\20240523105737_productcreatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B28770-6A09-42A3-8CB5-FF4947849435}|PracticeTT.Data\\PracticeTT.Data.csproj|solutionrelative:practicett.data\\migrations\\20240523105737_productcreatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeDocumentMoniker": "PracticeTT.Business\\Services\\Concretes\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeToolTip": "PracticeTT.Business\\Services\\Concretes\\ProductService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:50:59.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\Services\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "PracticeTT.Business\\Services\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\Services\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "PracticeTT.Business\\Services\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:50:34.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "PracticeTT.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "RelativeToolTip": "PracticeTT.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:43:43.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Data\\RepositoryConcrets\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "PracticeTT.Data\\RepositoryConcrets\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Data\\RepositoryConcrets\\GenericRepository.cs",
+              "RelativeToolTip": "PracticeTT.Data\\RepositoryConcrets\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:53:08.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageContentException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\Exceptions\\ImageContentException.cs",
+              "RelativeDocumentMoniker": "PracticeTT.Business\\Exceptions\\ImageContentException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\Exceptions\\ImageContentException.cs",
+              "RelativeToolTip": "PracticeTT.Business\\Exceptions\\ImageContentException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:47:58.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileNullReferenceException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\Exceptions\\FileNullReferenceException.cs",
+              "RelativeDocumentMoniker": "PracticeTT.Business\\Exceptions\\FileNullReferenceException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\Exceptions\\FileNullReferenceException.cs",
+              "RelativeToolTip": "PracticeTT.Business\\Exceptions\\FileNullReferenceException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:46:21.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeDocumentMoniker": "PracticeTT.Business\\Exceptions\\FileNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeToolTip": "PracticeTT.Business\\Exceptions\\FileNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:49:43.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "PracticeTT.Business\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "PracticeTT.Business\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:46:52.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\Exceptions\\ImageSizeException.cs",
+              "RelativeDocumentMoniker": "PracticeTT.Business\\Exceptions\\ImageSizeException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\Exceptions\\ImageSizeException.cs",
+              "RelativeToolTip": "PracticeTT.Business\\Exceptions\\ImageSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:48:38.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Data\\RepositoryConcrets\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "PracticeTT.Data\\RepositoryConcrets\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Data\\RepositoryConcrets\\ProductRepository.cs",
+              "RelativeToolTip": "PracticeTT.Data\\RepositoryConcrets\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:10:01.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PracticeTT.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "PracticeTT.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:48:08.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Core\\RepositoryAbstract\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "PracticeTT.Core\\RepositoryAbstract\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Core\\RepositoryAbstract\\IProductRepository.cs",
+              "RelativeToolTip": "PracticeTT.Core\\RepositoryAbstract\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:08:01.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PracticeTT.Business",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\PracticeTT.Business.csproj",
+              "RelativeDocumentMoniker": "PracticeTT.Business\\PracticeTT.Business.csproj",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Business\\PracticeTT.Business.csproj",
+              "RelativeToolTip": "PracticeTT.Business\\PracticeTT.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T11:13:56.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240523105737_ProductCreateTable.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Data\\Migrations\\20240523105737_ProductCreateTable.cs",
+              "RelativeDocumentMoniker": "PracticeTT.Data\\Migrations\\20240523105737_ProductCreateTable.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Data\\Migrations\\20240523105737_ProductCreateTable.cs",
+              "RelativeToolTip": "PracticeTT.Data\\Migrations\\20240523105737_ProductCreateTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:57:37.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeTT\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT\\Program.cs",
+              "RelativeToolTip": "PracticeTT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:53:24.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PracticeTT.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Data\\PracticeTT.Data.csproj",
+              "RelativeDocumentMoniker": "PracticeTT.Data\\PracticeTT.Data.csproj",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Data\\PracticeTT.Data.csproj",
+              "RelativeToolTip": "PracticeTT.Data\\PracticeTT.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T10:47:39.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PracticeTT.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Core\\Models\\Product.cs",
+              "RelativeToolTip": "PracticeTT.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:40:26.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "PracticeTT.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "PracticeTT.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:39:37.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PracticeTT.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Core\\PracticeTT.Core.csproj",
+              "RelativeDocumentMoniker": "PracticeTT.Core\\PracticeTT.Core.csproj",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT.Core\\PracticeTT.Core.csproj",
+              "RelativeToolTip": "PracticeTT.Core\\PracticeTT.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T10:39:16.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PracticeTT\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PracticeTT\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:35:34.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PracticeTT\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PracticeTT\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAABAAAAAAAAAAApwBsBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:32:00.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PracticeTT\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PracticeTT\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:30:10.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PracticeTT\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\AB204\\PracticeTT\\PracticeTT\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PracticeTT\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:29:45.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

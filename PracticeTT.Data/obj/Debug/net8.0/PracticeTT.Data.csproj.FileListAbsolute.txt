@@ -1,0 +1,17 @@
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\bin\Debug\net8.0\PracticeTT.Data.deps.json
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\bin\Debug\net8.0\PracticeTT.Data.runtimeconfig.json
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\bin\Debug\net8.0\PracticeTT.Data.dll
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\bin\Debug\net8.0\PracticeTT.Data.pdb
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\bin\Debug\net8.0\PracticeTT.Core.dll
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\bin\Debug\net8.0\PracticeTT.Core.pdb
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\obj\Debug\net8.0\PracticeTT.Data.csproj.AssemblyReference.cache
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\obj\Debug\net8.0\PracticeTT.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\obj\Debug\net8.0\PracticeTT.Data.AssemblyInfoInputs.cache
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\obj\Debug\net8.0\PracticeTT.Data.AssemblyInfo.cs
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\obj\Debug\net8.0\PracticeTT.Data.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\obj\Debug\net8.0\Practice.1C6E5AFA.Up2Date
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\obj\Debug\net8.0\PracticeTT.Data.dll
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\obj\Debug\net8.0\refint\PracticeTT.Data.dll
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\obj\Debug\net8.0\PracticeTT.Data.pdb
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\obj\Debug\net8.0\PracticeTT.Data.genruntimeconfig.cache
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Data\obj\Debug\net8.0\ref\PracticeTT.Data.dll

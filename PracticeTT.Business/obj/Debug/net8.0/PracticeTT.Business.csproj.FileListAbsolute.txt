@@ -1,0 +1,17 @@
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\bin\Debug\net8.0\PracticeTT.Business.deps.json
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\bin\Debug\net8.0\PracticeTT.Business.dll
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\bin\Debug\net8.0\PracticeTT.Business.pdb
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\bin\Debug\net8.0\PracticeTT.Core.dll
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\bin\Debug\net8.0\PracticeTT.Data.dll
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\bin\Debug\net8.0\PracticeTT.Data.pdb
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\bin\Debug\net8.0\PracticeTT.Core.pdb
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\obj\Debug\net8.0\PracticeTT.Business.csproj.AssemblyReference.cache
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\obj\Debug\net8.0\PracticeTT.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\obj\Debug\net8.0\PracticeTT.Business.AssemblyInfoInputs.cache
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\obj\Debug\net8.0\PracticeTT.Business.AssemblyInfo.cs
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\obj\Debug\net8.0\PracticeTT.Business.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\obj\Debug\net8.0\Practice.C54C8DF5.Up2Date
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\obj\Debug\net8.0\PracticeTT.Business.dll
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\obj\Debug\net8.0\refint\PracticeTT.Business.dll
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\obj\Debug\net8.0\PracticeTT.Business.pdb
+C:\Users\ca.r214.12\Desktop\AB204\PracticeTT\PracticeTT.Business\obj\Debug\net8.0\ref\PracticeTT.Business.dll
